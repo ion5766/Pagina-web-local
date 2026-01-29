@@ -159,7 +159,6 @@
             </div>
 
             <div class="intro-image">
-                <!-- Reemplaza la URL por la imagen que te dé el profe -->
                 <img src="IMAGENES/profe2.PNG" alt="Producto">
             </div>
         </section>
@@ -197,7 +196,6 @@
                 </table>
 
                 <div class="specs-image">
-                    <!-- Reemplaza la URL por la imagen que te dé el profe -->
                     <img src="IMAGENES/profe.jpg" alt="Laptop">
                 </div>
             </div>
